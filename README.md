@@ -1,1 +1,3 @@
 # individus
+
+Implémentation d'un algorithme génétique pour résoudre un problème d'optimisation, dans ce cas-ci la recherche des meilleurs paramètres d'un personnage de jeu vidéo. Plus précisément, l'algorithme crée une génération initiale d'individus ayant des attributs aléatoires, évalue la performance de chaque individu en utilisant une fonction objectif et sélectionne les meilleurs individus pour la reproduction (croisement) afin de créer une nouvelle génération. Le processus de sélection et de reproduction se répète pour plusieurs générations, jusqu'à ce qu'un individu satisfaisant soit trouvé.
